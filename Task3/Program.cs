@@ -26,4 +26,4 @@ int AkkermanFunction(int m, int n)
 int m = InputInt32("Enter 1st argument (m)");
 int n = InputInt32("Enter 2nd argument (n)");
 
-System.Console.WriteLine($"Akkerman function A({m},{n}) = {AkkermanFunction(m, n)}"); 
+System.Console.WriteLine($"Akkerman function A({m},{n}) = {AkkermanFunction(m, n)}");
